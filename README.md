@@ -13,3 +13,4 @@ Création d'une Tuile graphique pour le futur webdesign d'un site vendant des ro
 La tuile graphique utilise des couleurs comme le violet et le noir pour représenter l'aspect futuriste. Le site sera épuré et en flat design, pour lui donner un coté moderne et se démarquer des sites de ventes de livres qui sont plus traditionnels.
 
 <h3>Références</h3>
+* https://booknode.com
